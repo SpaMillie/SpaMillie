@@ -38,7 +38,7 @@
   <a href="https://discord.com/users/1146851361963659296" target="_blank" style="padding-right:100px; text-decoration:none; border:none;">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" width="150" alt="discord logo"  />
   </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- When all else fails, forcebrute it -->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- When all else fails, forcebrute it -->
   <a href="linkedin.com/in/milica-spasic-a57a0530b/" target="_blank" style="padding-right:100px; text-decoration:none; border:none;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" width="150" alt="linkedin logo" />
   </a>
@@ -48,4 +48,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/spamillie/spamillie/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/<spamillie>/<spamillie>/blob/output/github-contribution-grid-snake2.svg)
