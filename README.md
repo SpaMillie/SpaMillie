@@ -20,7 +20,7 @@
 ###
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; margin: auto; text-align: center;">
+  <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; margin: 0 auto; text-align: center;">
     <tr>
       <!-- the GIF -->
       <td rowspan="2" style="vertical-align:middle; text-align:center;">
@@ -33,24 +33,33 @@
           />
       </td>
       <!-- the languages -->
-      <td style="vertical-align:middle">
-          <img 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-            height="100" 
-            style="display: inline-block; margin: 10px;"
-            alt="c logo"
-          />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
-            height="100"
-            style="display: inline-block; margin: 0 10px;"
-            alt="cpp logo"
-          />
-          <img 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-            height="100" 
-            style="display: inline-block; margin: 0 10px;"
-            alt="python logo"
-          />
+      <td align="center" style="vertical-align:middle;">
+        <table style="margin: 0 auto; border-collapse: collapse;">
+          <tr>
+            <td style="padding: 0 15px;">
+              <img 
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+                height="100" 
+                style="display: inline-block; margin: 0 auto;"
+                alt="c logo"
+              />
+            </td>
+            <td style="padding: 0 15px;">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+                height="100"
+                style="display: inline-block; margin: 0 auto;"
+                alt="cpp logo"
+              />
+            </td>
+            <td style="padding: 0 15px;">
+              <img 
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+                height="100" 
+                style="display: inline-block; margin: 0 auto;"
+                alt="python logo"
+              />
+            </td>
+        </table>
       </td>
     </tr>
     <tr>
@@ -59,7 +68,7 @@
           <a 
             href="https://discord.com/users/1146851361963659296" 
             target="_blank" 
-            style="text-decoration:none; margin: 0 5px; display: inline-block;"
+            style="text-decoration:none; margin: 0 auto; display: inline-block;"
           >
             <img 
               src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" 
@@ -71,7 +80,7 @@
           <a 
             href="https://www.linkedin.com/in/milica-spasic-a57a0530b/" 
             target="_blank" 
-            style="text-decoration:none; margin: 0 5px; display: inline-block;"
+            style="text-decoration:none; margin: 0 auto; display: inline-block;"
           >
             <img 
             src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" 
@@ -83,6 +92,7 @@
           <a 
             href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" 
             target="_blank"
+            style="text-decoration:none; margin: 0 auto; display: inline-block;"            
           >
             <img 
               src="https://img.shields.io/badge/My_Diary-deepskyblue?style=for-the-badge&logo=googledocs&logoColor=blue&logoSize=auto&labelColor=deepskyblue&color=deepskyblue" 
