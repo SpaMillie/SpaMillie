@@ -18,34 +18,83 @@
 </div>
 
 ###
-<table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; margin: auto;">
-  <tr>
-    <td rowspan="2" style="vertical-align:middle">
-      <img align="left" height="200" width="300" src="https://media.giphy.com/media/zH6cftQTYNnZ6/giphy.gif?cid=790b7611kqi39250gctmz0qgmtzeslj0zglaz69ro8hmvn4a&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-    </td>
-    <td style="vertical-align:middle">
-        <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="100" alt="javascript logo"  />
-        <img width="50" />
-        <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="100" alt="cpp logo"/>
-        <img width="50" />
-        <img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="100" alt="python logo"  />
-        <img width="50" />
-    </td>
-  </tr>
-  <tr>
-    <td style="vertical-align:middle">
-        <a href="https://discord.com/users/1146851361963659296" target="_blank" style="text-decoration:none; border:none;">
-          <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" width="150" alt="discord logo"  />
-        </a>
-        <a href="linkedin.com/in/milica-spasic-a57a0530b/" target="_blank" style="text-decoration:none; border:none; outline:none">
-          <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" width="150" alt="linkedin logo" />
-        </a>
-        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-          <img src="https://img.shields.io/badge/My_Diary-deepskyblue?style=for-the-badge&logo=googledocs&logoColor=blue&logoSize=auto&labelColor=deepskyblue&color=deepskyblue" height="35" width="150" alt="diary badge" />
-        </a>
-    </td>
-  </tr>
-</table>
+
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; margin: auto; text-align: center;">
+    <tr>
+      <!-- the GIF -->
+      <td rowspan="2" style="vertical-align:middle; text-align:center;">
+        <img 
+          src="https://media.giphy.com/media/zH6cftQTYNnZ6/giphy.gif?cid=790b7611kqi39250gctmz0qgmtzeslj0zglaz69ro8hmvn4a&ep=v1_gifs_search&rid=giphy.gif&ct=g"
+          style="display: block; margin: 0 auto;"
+          height="200"
+          width="300"
+          alt="the GIF"
+          />
+      </td>
+      <!-- the languages -->
+      <td style="vertical-align:middle">
+          <img 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+            height="100" 
+            style="display: inline-block; margin: 10px;"
+            alt="c logo"
+          />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+            height="100"
+            style="display: inline-block; margin: 0 10px;"
+            alt="cpp logo"
+          />
+          <img 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+            height="100" 
+            style="display: inline-block; margin: 0 10px;"
+            alt="python logo"
+          />
+      </td>
+    </tr>
+    <tr>
+      <!-- the links -->
+      <td style="vertical-align:middle">
+          <a 
+            href="https://discord.com/users/1146851361963659296" 
+            target="_blank" 
+            style="text-decoration:none; margin: 0 5px; display: inline-block;"
+          >
+            <img 
+              src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" 
+              height="35" 
+              width="150" 
+              alt="discord logo"  
+            />
+          </a>
+          <a 
+            href="linkedin.com/in/milica-spasic-a57a0530b/" 
+            target="_blank" 
+            style="text-decoration:none; margin: 0 5px; display: inline-block;"
+          >
+            <img 
+            src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" 
+            height="35" 
+            width="150" 
+            alt="linkedin logo" 
+            />
+          </a>
+          <a 
+            href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" 
+            target="_blank"
+          >
+            <img 
+              src="https://img.shields.io/badge/My_Diary-deepskyblue?style=for-the-badge&logo=googledocs&logoColor=blue&logoSize=auto&labelColor=deepskyblue&color=deepskyblue" 
+              height="35" 
+              width="150" 
+              alt="diary badge" 
+              />
+          </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ###
 
