@@ -69,7 +69,7 @@
             />
           </a>
           <a 
-            href="linkedin.com/in/milica-spasic-a57a0530b/" 
+            href="https://www.linkedin.com/in/milica-spasic-a57a0530b/" 
             target="_blank" 
             style="text-decoration:none; margin: 0 5px; display: inline-block;"
           >
