@@ -10,10 +10,11 @@
     Feel free to reach out! 🚀
     <br> <br>
   </body>
+  <!-- Uncomment when you improve the score 
     <div>
       <img src="https://github-readme-stats.vercel.app/api?username=spamillie&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" width="500" alt="stats graph" style="margin-right: 25px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=spamillie&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" width="350" alt="languages graph" style="margin-left:25px" >
-    </div>
+    </div> -->
 </div>
 
 ###
@@ -37,6 +38,7 @@
   <a href="https://discord.com/users/1146851361963659296" target="_blank" style="padding-right:100px; text-decoration:none; border:none;">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" width="150" alt="discord logo"  />
   </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- When all else fails, forcebrute it -->
   <a href="linkedin.com/in/milica-spasic-a57a0530b/" target="_blank" style="padding-right:100px; text-decoration:none; border:none;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" width="150" alt="linkedin logo" />
   </a>
