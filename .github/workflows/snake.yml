@@ -31,7 +31,7 @@ jobs:
       - name: Generate snake graph
         uses: Platane/snk@master
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: spamillie
           outputs: |
             ./output/github-contribution-grid-snake.svg
             ./output/github-contribution-grid-snake-dark.svg
@@ -42,5 +42,6 @@ jobs:
           git config --global user.name "Github Actions"
           git config --global user.email "actions@github.com"
           git add ./output
+          git status
           git commit -m "Generate contribution snake graph"
           git push
